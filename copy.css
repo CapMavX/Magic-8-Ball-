@@ -1,0 +1,59 @@
+body {
+    background-color: #f8f8f8;
+    color: #454545;
+    font-family: "Montserrat", sans-serif;
+    margin: 0 auto;
+    padding: 0 auto;
+    background-image: url('bkgd2.png');
+}
+.page{
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+.ball, .button{
+    margin: 0 auto;
+}
+.answer{
+    font: 16px "Montserrat", sans-serif;
+    color: #222;
+    text-align: center;
+    text-transform: uppercase;
+    top: 50%;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -65px;
+    width: 14%;
+    position: absolute;
+}
+#questionButton{
+    color: white;
+    background-color:#f16059;
+    text-align: center;
+   width: 60%;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+    font: 25px "Montserrat", sans-serif;
+  display: block;
+  padding: 10px 75px;
+}
+header{
+    
+    text-align: center;
+    margin-top: 0,25em;
+}
+header span{
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #f16059;;
+}
+
+h1 {
+    font-family:  "Montserrat", sans-serif;
+}
+p {
+    font: 12px  "Montserrat", sans-serif;
+text-align: center;
+text-transform: uppercase;
+}
